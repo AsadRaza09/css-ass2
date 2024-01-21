@@ -1,0 +1,17 @@
+body {
+    background-color: grey;
+    color: rgb(187, 183, 183);
+}
+h1 {
+    color: rgb(160, 7, 7);
+    background-color: rgb(221, 78, 78);
+}
+a {
+    color: green;
+    background-color: rgb(128, 235, 128);
+    
+}
+.para3 {
+    color: yellow;
+    background-color: white;
+}
